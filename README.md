@@ -5,7 +5,7 @@
 
 - it shows account information, security information, and yeah this is the basic!
 
-- <a href="https://discord.gg/stixk>my discord</a>
+- <a href="https://discord.gg/stixk">my discord</a>
 
 # how to use? 
 
