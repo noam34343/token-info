@@ -1,0 +1,1 @@
+Token here, if you dont want to input your token in file you just have to delete the file token.txt and run the main.py again!
